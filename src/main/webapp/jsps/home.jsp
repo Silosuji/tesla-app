@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+<h1 align="center">Welcome to Silosuji technologies.</h1>
+<h2 align="center"> We are supporting my personal Project to be the best DevOps Engineer.
+	Silosuji technologies is a software development company. 
+	He will attend Class29 class whcih will run from August 11, 2022 and he will get a DevOps job by December 31,2022 
+	JESUS CHRIST WILL MAKE IT HAPPEN. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
