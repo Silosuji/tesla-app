@@ -12,8 +12,8 @@
 <h1 align="center">Welcome to Silosuji technologies.</h1>
 <h2 align="center"> We are supporting my personal Project to be the best DevOps Engineer.
 	Silosuji technologies is a software development company built by him. 
-	He will attend Class29 class whcih will run from August 11, 2022 and he will get a DevOps Engineer job by December 31,2022 
-	JESUS CHRIST WILL MAKE IT HAPPEN. HE IS OUR SUCCESS ACCESS KEY</h2>
+	He will attend Class29 class which will run from August 11, 2022 and he will get a DevOps Engineer job by December 31,2022 
+	JESUS CHRIST WILL MAKE IT HAPPEN. HE IS MY SUCCESS ACCESS KEY AND I TRUST IN HIM</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
