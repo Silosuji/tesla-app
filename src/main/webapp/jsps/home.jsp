@@ -11,29 +11,30 @@
 <body>
 <h1 align="center">Welcome to Silosuji technologies.</h1>
 <h2 align="center"> We are supporting my personal Project to be the best DevOps Engineer.
-	Silosuji technologies is a software development company built by him. God gave him the idea..
-	He will attend Class29 class which will run from August 11, 2022 and he will get a DevOps Engineer job by December 31,2022 
+	Silosuji technologies is a software development company built by him. 
+	God gave him the idea.
+	He will attend Class29 class which will run from August 11, 2022 and he will get a DevOps Engineer job by end December 31,2022 
 	JESUS CHRIST WILL MAKE IT HAPPEN. HE IS MY SUCCESS ACCESS KEY AND I TRUST IN HIM</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="200">
+		<img src="images/silosujilogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Silosuji technologies, 
+		Winnipeg, Manitoba, Canada
+		+1 481 588 2529,
+		silosuji@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:silosuji@gmail.com">Mail to Silosuji technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Silosuji technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://Silosuji technologies/">Silosuji technologies</a> </small></p>
 
 </body>
 </html>
